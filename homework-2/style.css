@@ -1,0 +1,26 @@
+.block1 {
+     background: #39291c;
+     color: aliceblue;
+}
+
+.block1-in {
+     color: blueviolet;
+}
+
+.empty {
+     background: red;
+     width: 100px;
+     height: 100px;
+}
+
+.block2 {
+     background: #8a2be2;
+     color: black;
+     width: 300px;
+}
+
+.elements {
+     background: #37115a;
+     color: aliceblue;
+
+}
